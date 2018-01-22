@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHP - Валидация email'a регулякой"
-date:   2018-01-22 09:00:00 +0300
+date:   2018-01-22 09:30:00 +0300
 categories: php validation regexp email
 ---
 {% highlight php %}
